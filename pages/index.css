@@ -47,6 +47,18 @@
 @import url(../blocks/content/feynman/_subtitle/feynman_subtitle.css);
 @import url(../blocks/content/feynman/_main-illustration/feynman_main-illustration.css);
 @import url(../blocks/content/feynman/_link/feynman_link.css);
+/*khan*/
+@import url(../blocks/content/khan/khan.css);
+@import url(../blocks/content/khan/_сontainer/khan_container.css);
+@import url(../blocks/content/khan/_сontainer/_container-text/khan_container_container-text.css);
+@import url(../blocks/content/khan/_сontainer/_container-text/_author/khan_container_author.css);
+@import url(../blocks/content/khan/_сontainer/_container-text/_title/khan_container_container-text_title.css);
+@import url(../blocks/content/khan/_сontainer/_container-text/_quote/khan_container_container-text_quote.css);
+@import url(../blocks/content/khan/_сontainer/_container-text/_quote-author/khan_container_container-text_quote-author.css);
+@import url(../blocks/content/khan/_сontainer/_container-text/_quote-author-subline/khan_container_container-text_quote-author-subline.css);
+@import url(../blocks/content/khan/_сontainer/_book-container/khan_container_book-container.css);
+@import url(../blocks/content/khan/_сontainer/_book-container/_book-pic/khan_container_book-container_book-pic.css);
+@import url(../blocks/content/khan/_сontainer/_book-container/_buy-link/khan_container_book-container_buy-link.css);
 /*kaufman*/
 @import url(../blocks/content/kaufman/kaufman.css);
 @import url(../blocks/content/kaufman/_section/kaufman_section.css);
@@ -64,6 +76,14 @@
 @import url(../blocks/content/kaufman/_table/_cell/_heading/_theme/kaufman_table_cell_heading_theme_dark.css);
 @import url(../blocks/content/kaufman/_table/_cell/_text/kaufman_table_cell_text.css);
 @import url(../blocks/content/kaufman/_table/_cell/_text/_theme/kaufman_table_cell_text_theme_dark.css);
+/*resources*/
+@import url(../blocks/content/resources/resources.css);
+@import url(../blocks/content/resources/_section/resources_section.css);
+@import url(../blocks/content/resources/_section/_subtitle/resources_section_subtitle.css);
+@import url(../blocks/content/resources/_section/_title/resources_section_title.css);
+@import url(../blocks/content/resources/_logo-zone/resources_logo-zone.css);
+@import url(../blocks/content/resources/_logo-zone/_link/resources_logo-zone_link.css);
+@import url(../blocks/content/resources/_logo-zone/_link/_logo/resources_logo-zone_link_logo.css);
 /*footer*/
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/_columns/footer_columns.css);
