@@ -1,0 +1,5 @@
+.section_dark_theme {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+}
